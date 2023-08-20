@@ -1,6 +1,6 @@
 # 🌟 My Portfolio Website 🚀
 
-Welcome to the repository for my personal portfolio website! This website showcases my skills, projects, and experiences in a visually appealing and interactive manner. You can access the live website at [https://yourusername.github.io](https://yourusername.github.io).
+Welcome to the repository for my personal portfolio website! This website showcases my skills, projects, and experiences in a visually appealing and interactive manner. You can access the live website at [https://chdl17.github.io](https://chdl17.github.io).
 
 ## Table of Contents 📜
 
@@ -42,7 +42,7 @@ Before you get started, make sure you have the following:
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/yourusername/yourusername.github.io.git
+   git clone https://github.com/chdl17/chdl17.github.io.git
    ```
 
 2. **Customize Content:** Update the `index.html`, `about.html`, `projects.html`, and other HTML files with your own information.
