@@ -59,7 +59,7 @@ Before you get started, make sure you have the following:
 
 ## Usage 🌐
 
-Visit [https://chdl17.github.io](https://yourusername.github.io) to explore my portfolio website. Navigate through the different sections using the navigation menu to learn more about me, my skills, and my projects.
+Visit [https://chdl17.github.io](https://chdl17.github.io) to explore my portfolio website. Navigate through the different sections using the navigation menu to learn more about me, my skills, and my projects.
 
 ## Customization 🎨
 
