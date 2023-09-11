@@ -1,4 +1,4 @@
-                       # 🌟 My Portfolio Website 🚀
+# 🌟 My Portfolio Website 🚀
 
 Welcome to the repository for my personal portfolio website! This website showcases my skills, projects, and experiences in a visually appealing and interactive manner. You can access the live website at [https://chdl17.github.io](https://chdl17.github.io).
 
